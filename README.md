@@ -1,3 +1,5 @@
-# Colormap-Reconstruction
+# Colormap Data Extraction
 
-It is not the rare case to encounter colormaps created with certain values. Sometimes values of these colormaps is required. This repository is devoted to produce successful solutions to this problem.
+It is not the rare case to encounter colormaps created with certain data. Sometimes values of these colormaps are required. 
+
+This repository involves projects about extracting these data from a colormap.
